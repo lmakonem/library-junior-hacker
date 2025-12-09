@@ -57,8 +57,5 @@ router_mappings:
   - router: router
     network: attacker-switch
     ip: 10.1.27.1
-  - router: router
-    network: internet-connection
-    ip: 100.100.100.37
 
 groups: []
